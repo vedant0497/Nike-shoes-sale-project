@@ -6,7 +6,7 @@ The dashboard is divided into three main sections: Overview, Insight, and Perfor
 
 Dashboard Preview
 1. Overview Page
-![Overview Page](https://github.com/shahidk1999/Nike-Shoe-Sales-Project/blob/main/Screenshot%202025-09-13%20155426.png)
+![Overview Page]()
 Displays the Nike Air Jordan 1 Low SE model with multiple product images.
 
 Contains a short product description:
@@ -16,7 +16,7 @@ Contains a short product description:
 Provides product visuals from different angles and showcases multiple color variants.
 
 2. Insight Page
-![Insight Page](https://github.com/shahidk1999/Nike-Shoe-Sales-Project/blob/main/Screenshot%202025-09-13%20155540.png)
+![Insight Page]()
 Highlights business insights related to sales.
 
 Key metrics:
@@ -32,7 +32,7 @@ Rating: 0
 Includes product images to maintain visual context.
 
 3. Performance Page
-![Performance Page](https://github.com/shahidk1999/Nike-Shoe-Sales-Project/blob/main/Screenshot%202025-09-13%20155622.png)
+![Performance Page]()
 Provides sales performance analysis through interactive visuals:
 
 Unit Sale by Region: Shows regional distribution of sales (South leads with 2287 units).
