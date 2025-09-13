@@ -1,3 +1,4 @@
+# Vedant Bhardwaj
 # Nike-shoes-sale-project
 Nike Shoe Sales Project
 
@@ -6,7 +7,7 @@ The dashboard is divided into three main sections: Overview, Insight, and Perfor
 
 Dashboard Preview
 1. Overview Page
-![Overview Page]()
+![Overview Page](https://github.com/vedant0497/Nike-shoes-sale-project/blob/main/Screenshot%202025-09-13%20155541.png)
 Displays the Nike Air Jordan 1 Low SE model with multiple product images.
 
 Contains a short product description:
@@ -16,7 +17,7 @@ Contains a short product description:
 Provides product visuals from different angles and showcases multiple color variants.
 
 2. Insight Page
-![Insight Page]()
+![Insight Page](https://github.com/vedant0497/Nike-shoes-sale-project/blob/main/Screenshot%202025-09-13%20155618.png)
 Highlights business insights related to sales.
 
 Key metrics:
@@ -32,7 +33,7 @@ Rating: 0
 Includes product images to maintain visual context.
 
 3. Performance Page
-![Performance Page]()
+![Performance Page](https://github.com/vedant0497/Nike-shoes-sale-project/blob/main/Screenshot%202025-09-13%20155650.png)
 Provides sales performance analysis through interactive visuals:
 
 Unit Sale by Region: Shows regional distribution of sales (South leads with 2287 units).
